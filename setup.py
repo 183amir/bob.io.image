@@ -414,6 +414,8 @@ define_macros = \
 
 
 setup(
+    namespace_packages=['bob'],
+
 
     name='bob.io.image',
     version=version,
